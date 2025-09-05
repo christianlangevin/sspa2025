@@ -1,0 +1,35 @@
+name: sspa2025
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - contextily
+  - descartes
+  - fiona
+  - folium
+  - git
+  - geopandas
+  - geos
+  - geojson
+  - imageio
+  - jupyter
+  - jupytext
+  - jupyterlab
+  - modflowapi
+  - netcdf4
+  - openpyxl
+  - pip
+  - pymetis
+  - pytest
+  - pyvista
+  - pyyaml
+  - rasterio
+  - rasterstats
+  - requests
+  - rioxarray
+  - rtree
+  - statsmodels
+  - uxarray
+  - vtk
+  - xarray
+  - xlrd
