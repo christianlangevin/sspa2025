@@ -41,4 +41,4 @@ conda activate sspa2025
 jupyter lab
 ```
 
-With the short time frame for this workshop, we will have limited capacity to help with software installation problems.  However, all of the course material will be provided so that attendees can run through the material afterwards.
+Feel free to contact me if you have any questions regarding the installation.

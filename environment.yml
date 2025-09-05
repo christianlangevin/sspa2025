@@ -15,7 +15,6 @@ dependencies:
   - jupyter
   - jupytext
   - jupyterlab
-  - modflowapi
   - netcdf4
   - openpyxl
   - pip
