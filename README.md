@@ -22,29 +22,37 @@ In addition to Python, you may also want to install
 - QGIS or ArcGIS
 
 
-## Day 1 Topics
+## Day 1 Agenda
 
-- Getting Started
-  - Installation, Distributions, Environments, IDEs
-  - Running Python (scripts, notebooks)
-- Git and Github
-- Python Basics
-    - Variables, lists, tuples, dictionaries
-    - Strings
-    - Loops and flow control
-    - File Paths
-    - Reading and writing files
-- Packages for Scientific Analysis
-    - Numpy
-    - Matplotlib (including multipage PDFs, interactive plots, and animations)
-    - Scipy
-    - Pandas
-    - Geopandas
+* Morning
+  * 8:30 AM -- Introductions and Workshop Overview
+  * 8:45 AM -- Working with Python (Installation, Distributions, Environments, IDEs, GitHub)
+  * 9:00 AM -- Getting Start, Python Basics
+  * 10:00 AM -- Break
+  * 10:30 AM -- Numpy and Matplotlib
+    * Mount St. Helens Example
+    * Theis Example
+  * 12:00 PM -- Break for lunch
 
-## Day 2 Topics
+* Afternoon
+  * 1:00 PM -- Pandas and Geopandas
+    * Pandas demo
+    * py1940 example
+    * Work with your geospatial data
+  * 2:30 PM -- Break
+  * 3:00 PM -- MODFLOW Overview
+  * 3:30 PM -- FloPy intro
+  * 4:00 PM -- Wrap Up
+    * Best practices for managing code 
+    * Plan for Day 2
+  * 4:30 PM -- Adjourn
 
-- MODFLOW 6 Overview
-- Introducion to FloPy
+## Day 2 Agenda
+
+* FloPy Introduction and Quickstart
+* Building a Model from Scratch
+* Structured and Unstructured Grids
+* Groundwater Transport (GWT) Model
 - Building a model from scratch
 - Working with shapefiles and GIS for modeling
 - Processing model output
