@@ -67,6 +67,7 @@ In addition to Python, you may also want to install
   * MODFLOW 6 Examples
   * MODFLOW 6 autotests
 * Extended MODFLOW (parallelization and NetCDF)
+  * MODFLOW 6 parallel example
 * Converting older models to MODFLOW 6
 * Working with shapefiles and GIS for modeling
   * py1940
