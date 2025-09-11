@@ -49,22 +49,25 @@ In addition to Python, you may also want to install
 
 ## Day 2 Agenda
 
-* FloPy Introduction and Quickstart
-* Building a Model from Scratch
-* Structured and Unstructured Grids
-* Groundwater Transport (GWT) Model
-- Building a model from scratch
-- Working with shapefiles and GIS for modeling
-- Processing model output
-- Unstructured grids
-- Flow and transport modeling
-- Zonebudget
-- Particle tracking (PRT)
-- Automating model runs
-- Variable-density flow and transport
-- Extended MODFLOW (parallelization and NetCDF)
-- Converting older models to MODFLOW 6
-
-## Miscellaneous Topics
-- Debugging
-- Energy Transport (GWE)
+* Toth Notebook
+* MODFLOW 6 Presentation
+* Working with Unstructured Grids
+  * Presentation
+  * XT3D
+  * Notebooks (mesh generation, island)
+  * FloPy Resources
+* Groundwater Transport
+  * Presentation
+  * Notebooks
+* Variable-Density Flow
+  * Presentation
+  * Notebooks
+* FloPy examples for MODFLOW 6
+  * FloPy Example Gallery
+  * MODFLOW 6 Examples
+  * MODFLOW 6 autotests
+* Extended MODFLOW (parallelization and NetCDF)
+* Converting older models to MODFLOW 6
+* Working with shapefiles and GIS for modeling
+  * py1940
+* Discussion on effective processing of model output
